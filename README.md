@@ -1,28 +1,112 @@
-<h1 align="center">Hi 👋, I'm Alireza Jani</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezajani&label=Profile%20views&color=0e75b6&style=flat" alt="alirezajani" /> </p>
+# Hi 👋, I'm Alireza Jani
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirezajani" alt="alirezajani" /></a> </p>
+### Full-Stack Developer | React • Java • Spring Boot
 
-- 🌱 I’m currently learning **JavaScript**
+Building modern web interfaces and learning to engineer reliable backend systems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlirezaJani](https://github.com/AlirezaJani)
+<a href="https://github.com/AlirezaJani">
+  <img src="https://img.shields.io/badge/GitHub-AlirezaJani-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/alireza-jani-862ba8333">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:alirezajani611@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-- 💬 Ask me about **HTML _ CSS3 _ Tailwind _ Bootstrap _ javascript _ react.js _ next.js _ python**
+<img src="https://komarev.com/ghpvc/?username=AlirezaJani&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 
-- 📫 How to reach me **alirezajani611@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alireza-jani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-jani" height="30" width="40" /></a>
+---
+
+## 👨‍💻 About Me
+
+- 💻 Interested in building modern, responsive web applications.
+- 🎨 Focused on frontend development, clean UI, and user experience.
+- ☕ Exploring Java, Spring Boot, and backend development.
+- ⚛️ Working with React and the JavaScript ecosystem.
+- 📚 Continuously learning and building projects to improve my skills.
+- 🎯 Goal: Become a well-rounded Full-Stack Developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass&theme=dark" alt="Frontend technologies"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Backend & Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezajani&show_icons=true&locale=en&layout=compact" alt="alirezajani" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python&theme=dark" alt="Backend technologies"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezajani&show_icons=true&locale=en" alt="alirezajani" /></p>
+### Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezajani&" alt="alirezajani" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Development tools"/>
+</p>
+
+---
+
+## 🚀 Projects & Portfolio
+
+I believe the best way to grow as a developer is by building real projects, solving practical problems, and continuously improving code quality.
+
+<div align="center">
+
+<a href="https://github.com/AlirezaJani?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+**What to explore:**
+- 🌐 Frontend applications and interactive UI projects
+- ⚛️ React applications and reusable components
+- ☕ Java and Spring Boot learning projects
+- 🔌 Full-stack applications and API integrations
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlirezaJani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaJani&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AlirezaJani&hide_border=true&background=0D1117&ring=818CF8&fire=60A5FA&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+I'm always interested in learning, exchanging ideas, and connecting with other developers.
+
+<div align="center">
+
+<a href="https://github.com/AlirezaJani">GitHub</a> •
+<a href="https://www.linkedin.com/in/alireza-jani-862ba8333">LinkedIn</a> •
+<a href="mailto:alirezajani611@gmail.com">Email</a>
+
+<br/>
+
+**Thanks for visiting my profile!** 💜
+
+<sub>Keep learning. Keep building. Keep growing. 🚀</sub>
+
+</div>
